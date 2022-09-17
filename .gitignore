@@ -68,6 +68,8 @@ Data*
 .nextflow.log.1
 *.log*
 *.bed
+*.fastq
+*.broadpeak
 
 
 
