@@ -43,6 +43,7 @@ vignettes/*.pdf
 .RData
 .Ruserdata
 *.bam
+*.bai
 *.pdf
 *.Rproj
 *.Rproj
@@ -68,8 +69,13 @@ Data*
 .nextflow.log.1
 *.log*
 *.bed
-*.fastq
+
+
+
+*.sra
+*fastq*
 *.broadpeak
+*.gtf
 
 
 
