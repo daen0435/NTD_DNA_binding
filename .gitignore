@@ -76,6 +76,7 @@ Data*
 *fastq*
 *.broadpeak
 *.gtf
+*.gff3
 
 
 
